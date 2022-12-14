@@ -11,7 +11,7 @@
     "jquery-ui": "1.13.0",
     "jquery-ui-iconfont": "2.3.2",
     "qunit": "2.9.2",
-    "select2": "4.0.11",
+    "select2": "4.0.13",
     "sinon": "2.0.0",
     "tooltipster": "4.2.6",
     "web-ext": "~7.1.0"
